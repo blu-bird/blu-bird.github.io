@@ -6,6 +6,8 @@ description: two number theory stories (and despite losses, the pigs go marching
 tags: comm-alg alg-nt galois
 categories: algebra 
 related_posts: false
+toc:
+  beginning: true
 ---
 
 yellow pigs often come to mind now that we are in summer proper and 
