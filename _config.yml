@@ -180,6 +180,9 @@ collections:
   resources:
     output: true 
     permalink: /resources/:path/
+  seminars: 
+    output: true
+    permalink: /seminars/:path/
 
 announcements:
   enabled: true

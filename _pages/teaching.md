@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: courses and experiences
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 <!-- pages/teaching.md -->
