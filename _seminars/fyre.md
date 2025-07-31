@@ -42,7 +42,7 @@ just an opportunity for us to practice talking about math and share with each ot
 **Abstract:** TBD 
 
 ##### Week 3 -- August 15, 2025
-**Speaker:** TBD
+**Speaker:** Wolfgang Allred
 
 **Title:** TBD
 
