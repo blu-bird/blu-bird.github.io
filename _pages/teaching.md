@@ -17,15 +17,15 @@ Courses
 University of Washington
 </h5>
 <ul>
-    <li><strong>current - MATH 125 AE/AF</strong>: Calculus with Analytic Geometry II, TA [Winter '25]</li>
-    <li><strong>MATH 125 AA/AB</strong>: Calculus with Analytic Geometry II, TA [Autumn '24]</li>
+    <li><strong>MATH 126</strong>: Calculus with Analytic Geometry III, TA [Sp '25]</li>
+    <li><strong>MATH 125</strong>: Calculus with Analytic Geometry II, TA [Au '24, Wi '25, Su '25]</li>
 </ul>
 <h5>
 Cornell University
 </h5>
 <ul>
-    <li><strong>MATH 2230</strong>: Theoretical Linear Algebra and Calculus, Grader [Fall '21, Fall '22, Fall '23]</li>
-    <li><strong>MATH 2240</strong>: Theoretical Linear Algebra and Calculus, Grader [Spring '22, Spring '23]</li>
+    <li><strong>MATH 2230</strong>: Theoretical Linear Algebra and Calculus, Grader [FA '21, FA '22, FA '23]</li>
+    <li><strong>MATH 2240</strong>: Theoretical Linear Algebra and Calculus, Grader [SP '22, SP '23]</li>
 </ul>
 
 

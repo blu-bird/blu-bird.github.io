@@ -9,7 +9,7 @@ notes:
 # related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-**Organizer(s):** Bryan Lu (blu17@uw.edu)
+**Organizer:** Bryan Lu (blu17@uw.edu)
 
 **Meetings:** Fridays 1:00 PM - 1:30 PM, PDL C401
 
