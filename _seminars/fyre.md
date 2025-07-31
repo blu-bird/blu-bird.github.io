@@ -30,9 +30,9 @@ just an opportunity for us to practice talking about math and share with each ot
 ##### Week 1 -- August 1, 2025
 **Speaker:** Juan José Villamarín Castro
 
-**Title:** TBD
+**Title:** Ricci flow on the disc 
 
-**Abstract:** TBD 
+**Abstract:** In this talk we will introduce the basic concepts in order to understand the convergence of the normalized Ricci flow on the disk (with positive scalar curvature) to a metric of constant (positive) curvature and totally geodesic boundary. If time permits, we will discuss in further detail the monotonicity formula of the Perelman’s functionals which is an important step in the proof of the convergence.
 
 ##### Week 2 -- August 8, 2025
 **Speaker:** Varun Shah
