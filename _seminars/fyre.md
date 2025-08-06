@@ -37,9 +37,10 @@ just an opportunity for us to practice talking about math and share with each ot
 ##### Week 2 -- August 8, 2025
 **Speaker:** Varun Shah
 
-**Title:** TBD
+**Title:** Isoperimetric inequalities on the cube and extremal combinatorics
 
-**Abstract:** TBD 
+**Abstract:** A clutter is a family of subsets of a finite set in which none of the sets contains another. Sperner's theorem states that among all families of subsets of $$\set{1, 2, ..., n}$$ the sets of size $$\frac n2$$ form the largest clutter. In true combinatorics fashion, we will see a slick proof of this result. We will then systematically study the geometry of the cube and use an isoperimetric inequality to reprove Sperner's theorem.
+
 
 ##### Week 3 -- August 15, 2025
 **Speaker:** Wolfgang Allred
