@@ -34,23 +34,47 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Abstract:** In this talk we will introduce the basic concepts in order to understand the convergence of the normalized Ricci flow on the disk (with positive scalar curvature) to a metric of constant (positive) curvature and totally geodesic boundary. If time permits, we will discuss in further detail the monotonicity formula of the Perelman’s functionals which is an important step in the proof of the convergence.
 
+---
+
 ##### Week 2 -- August 8, 2025
-**Speaker:** Varun Shah
+**Speaker 1:** Varun Shah
 
 **Title:** Isoperimetric inequalities on the cube and extremal combinatorics
 
 **Abstract:** A clutter is a family of subsets of a finite set in which none of the sets contains another. Sperner's theorem states that among all families of subsets of $$\set{1, 2, ..., n}$$ the sets of size $$\frac n2$$ form the largest clutter. In true combinatorics fashion, we will see a slick proof of this result. We will then systematically study the geometry of the cube and use an isoperimetric inequality to reprove Sperner's theorem.
 
 
+**Speaker 2:** TBD
+
+**Title:** TBD
+
+**Abstract:** TBD
+
+--- 
+
 ##### Week 3 -- August 15, 2025
-**Speaker:** Wolfgang Allred
+**Speaker 1:** Wolfgang Allred
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
+**Speaker 2:** TBD
+
+**Title:** TBD
+
+**Abstract:** TBD 
+
+---
+
 ##### Week 4 -- August 22, 2025
-**Speaker:** Connor McCausland
+**Speaker 1:** Connor McCausland
+
+**Title:** TBD
+
+**Abstract:** TBD 
+
+**Speaker 2:** Zihong Lin
 
 **Title:** TBD
 
