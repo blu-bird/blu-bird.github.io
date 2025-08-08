@@ -49,11 +49,11 @@ just an opportunity for us to practice talking about math and share with each ot
 ▶──◆◆◆──◆◆◇──◇◇──◇◇──◆──◆◇◆──◀
 </p>
 
-**Speaker 2:** TBD
+**Speaker 2:** William Dudarov
 
-**Title:** TBD
+**Title:** Lipschitz Mass Transport
 
-**Abstract:** TBD
+**Abstract:** Caffarelli's contraction theorem says that the optimal transport map from a Gaussian to a measure more log-concave than the Gaussian is 1-Lipschitz. This fact can be used to give two-line proofs of classical functional inequalities for strongly log-concave measures. In these proofs, the optimality of the transport map is not necessary, and so one can attempt to generalize Caffarelli's theorem by considering other transport maps. We discuss recent progress and open problems in this direction. 
 
 ---
 
