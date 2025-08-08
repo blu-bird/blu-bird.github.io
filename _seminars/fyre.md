@@ -25,7 +25,9 @@ just an opportunity for us to practice talking about math and share with each ot
 
 ---
 
-### Schedule
+## Schedule
+
+---
 
 ##### Week 1 -- August 1, 2025
 **Speaker:** Juan José Villamarín Castro
@@ -43,6 +45,9 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Abstract:** A clutter is a family of subsets of a finite set in which none of the sets contains another. Sperner's theorem states that among all families of subsets of $$\set{1, 2, ..., n}$$ the sets of size $$\frac n2$$ form the largest clutter. In true combinatorics fashion, we will see a slick proof of this result. We will then systematically study the geometry of the cube and use an isoperimetric inequality to reprove Sperner's theorem.
 
+<p style="text-align: center;">
+▶──◆◆◆──◆◆◇──◇◇──◇◇──◆──◆◇◆──◀
+</p>
 
 **Speaker 2:** TBD
 
@@ -50,7 +55,7 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Abstract:** TBD
 
---- 
+---
 
 ##### Week 3 -- August 15, 2025
 **Speaker 1:** Wolfgang Allred
@@ -79,3 +84,5 @@ just an opportunity for us to practice talking about math and share with each ot
 **Title:** TBD
 
 **Abstract:** TBD 
+
+---
