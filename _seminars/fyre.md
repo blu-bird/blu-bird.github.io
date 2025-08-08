@@ -64,7 +64,7 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Abstract:** TBD 
 
-**Speaker 2:** TBD
+**Speaker 2:** Jonas Golm 
 
 **Title:** TBD
 
