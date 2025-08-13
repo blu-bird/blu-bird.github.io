@@ -64,11 +64,15 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Abstract:** TBD 
 
+<p style="text-align: center;">
+▶──◆◇◆──◆──◆◇──◇◆◆──◆◆──◇◆──◇◇◆──◀
+</p>
+
 **Speaker 2:** Jonas Golm 
 
-**Title:** TBD
+**Title:** Structure of Random Graphs
 
-**Abstract:** TBD 
+**Abstract:** We begin with a proof of Chernoff’s inequality and use it to show that the Erdős–Rényi random graph model undergoes a phase transition—from highly irregular to almost regular—when the expected node degree reaches the order of $$\log n$$. We conclude with a discussion of other random graph models and the questions they raise.
 
 ---
 
@@ -78,6 +82,10 @@ just an opportunity for us to practice talking about math and share with each ot
 **Title:** TBD
 
 **Abstract:** TBD 
+
+<p style="text-align: center;">
+▶──◆◆◆──◆──◇◇──◆◆──◇◆──◆◇──◆◇◆──◀
+</p>
 
 **Speaker 2:** Zihong Lin
 
