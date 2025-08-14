@@ -60,9 +60,9 @@ just an opportunity for us to practice talking about math and share with each ot
 ##### Week 3 -- August 15, 2025
 **Speaker 1:** Wolfgang Allred
 
-**Title:** TBD
+**Title:** Modular representation theory and the stable module category
 
-**Abstract:** TBD 
+**Abstract:** Gather round as I tell a story about how the failure of Maschke’s theorem in positive characteristic leads to the wild world of modular representation theory and cohomological support varieties.
 
 <p style="text-align: center;">
 ▶──◆◇◆──◆──◆◇──◇◆◆──◆◆──◇◆──◇◇◆──◀
