@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Back to School Seminar 
-description: grad students share math they've been up to this summer (coming soon, AU 25)
+description: grad students share math they've been up to this summer
 img: assets/img/bts-sem-icon.png
-importance: 2
+importance: 3
 notes: 
 # category: work
 # related_publications: einstein1956investigations, einstein1950meaning
@@ -11,11 +11,13 @@ notes:
 
 **Organizer:** Bryan Lu (blu17@uw.edu)
 
-**Meetings:** 
+**Meetings:** TBD
 
-Over the summer, the graduate students at UW have learned many new and interesting topics from conferences, summer schools, reading courses, or just on their own. This seminar is intended to be a place where we can share what we have recently learned to our fellow graduate students. Not only does this serve as a way to reengage with our existing student body after summer break, but it also welcomes the incoming cohort of students and introduces topics that we are interested in.
+Over the summer, the graduate students at UW have learned many new and interesting topics from conferences, summer schools, reading courses, or just on their own. This seminar is intended to be a place where we can share what we have recently learned to our fellow graduate students. Not only does this serve as a way to reengage with our existing graduate student community after the summer, but it also welcomes the incoming cohort of students and introduces topics that we are interested in.
 
 This seminar is aimed at all of our graduate students, so talks should be accessible to a general audience. Ideally, at least $$\frac 1e$$ of your talk should be accessible to incoming first-year students. Talks should be approximately 51 minutes long, with time for questions afterwards.
+
+We're currently looking for speakers! If you're interested in participating, please fill out <a href="https://forms.gle/eXhJfcyMA9sQ8mj86">this form</a>. 
 
 ---
 

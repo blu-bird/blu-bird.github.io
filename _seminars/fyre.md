@@ -3,7 +3,7 @@ layout: page
 title: FYRe (First Year Reading Seminar)
 description: newly-freed grad students share the shenanigans they've been up to (SU 25)
 img: assets/img/summer-sem-icon.png
-importance: 1
+importance: 2
 notes: 
 # category: work
 # related_publications: einstein1956investigations, einstein1950meaning
@@ -79,9 +79,9 @@ just an opportunity for us to practice talking about math and share with each ot
 ##### Week 4 -- August 22, 2025
 **Speaker 1:** Connor McCausland
 
-**Title:** TBD
+**Title:** Pipe dreams and Rubey's lattice
 
-**Abstract:** TBD 
+**Abstract:** Reduced pipe dreams are combinatorial objects that encode some of the algebraic, enumerative, geometric, and probabilistic properties of Schubert and Grothendieck polynomials. In this talk, we will cover the basic properties of pipe dreams, and we will discuss a recent paper by Sara Billey, Clare Minnerath, and myself which shows that the set of reduced pipe dreams for any permutation $$w$$ has a natural lattice structure, proving a conjecture of Rubey.
 
 <p style="text-align: center;">
 ▶──◆◆◆──◆──◇◇──◆◆──◇◆──◆◇──◆◇◆──◀
@@ -89,8 +89,8 @@ just an opportunity for us to practice talking about math and share with each ot
 
 **Speaker 2:** Zihong Lin
 
-**Title:** TBD
+**Title:** Fubini-Study metric
 
-**Abstract:** TBD 
+**Abstract:** To rekindle the joy of first-year manifolds, we discuss the Fubini-Study metric. It is the canonical Hermitian metric ("Riemannian metric but complex") on the complex projective space. We start with a brisk walkthrough of necessary complex-geometric notions. Then we explore several perspectives often omitted in a first introduction to the Fubini-study metric, explaining why the metric is canonical. Representation theory makes a surprising entry as we apply Schur’s lemma to show that it is the unique metric invariant under the unitary group action.
 
 ---
