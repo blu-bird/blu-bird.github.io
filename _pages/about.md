@@ -22,17 +22,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a first-year PhD student in mathematics at the University of Washington. My mathematical interests are mainly in combinatorics (especially algebraic combinatorics), but I also enjoy learning about algebra and geometry and finding places where all three overlap.
+Hello! I'm a second-year PhD student in mathematics at the University of Washington. My mathematical interests are mainly in algebraic combinatorics (with assorted interests in algebraic geometry and representation theory). Broadly, I enjoy learning about combinatorics in connection with algebra and geometry and finding ways in which all three overlap. I am also generally enthusiastic about (mathematical) pedagogy and thinking about how to share math with people. 
 
-I graduated from Cornell University in December 2023 with a bachelor's in mathematics and computer science. Some wayward academic interests from my time as an undergraduate include <a href="https://github.com/etalang/jaek">programming languages</a>, <a href="https://github.com/blu-bird/agda-unimath">formal verification</a>, physics, and linguistics. I don't think about these things as much anymore, but I love to hear about them! I've also slowly developing an interest in (mathematical) pedagogy and thinking about how to share math with people. 
+I graduated from Cornell University in December 2023 with a bachelor's in mathematics and computer science. Some wayward academic interests from my time as an undergraduate include <a href="https://github.com/etalang/jaek">programming languages</a>, <a href="https://github.com/blu-bird/agda-unimath">formal verification</a>, physics, and linguistics. I don't think about these things as much anymore, but I love to hear about them!
 
 Outside of academics, in my free time I like playing games (on boards or otherwise) and doing puzzles (so much that sometimes I spend a <a href="https://puzzles.mit.edu/">whole weekend</a> on them). I also enjoy dancing and playing ultimate frisbee. 
-
-
-
-<!-- I also think a lot about pedagogy and communication in math, and how to bridge the gap between intuitive reasoning and rigorous, formal reasoning. I help grade for the MATH 2230/MATH 2240 sequence at Cornell, which gives first-year students a rigorous understanding of linear algebra and multivariable calculus (alongside exposure to many other mathematical disciplines, including real analysis and differential geometry) while also giving them training and practice in writing proofs.  -->
-
-<!-- In other things, I dance a lot and I'm currently the performance director for the Assorted Aces, a beginner-oriented dance group on campus. I also am on the executive board for Cornell Dancers' Alliance, supporting dance teams on campus and holding events that bring the dance community at Cornell together. Other interests include karate, ultimate frisbee, and puzzle hunts.  -->
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
