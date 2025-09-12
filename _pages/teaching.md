@@ -28,6 +28,15 @@ Cornell University
     <li><strong>MATH 2240</strong>: Theoretical Linear Algebra and Calculus, Grader [SP '22, SP '23]</li>
 </ul>
 
+<h3>
+Mentoring
+</h3>
+<h5>
+Washington Directed Reading Program (WDRP)
+</h5>
+<ul>
+    <li><strong>Computer-Assisted Proofs</strong>, with Alexandre Lipson and Jonathan Ly, learning about homotopy type theory and proof assistants [Sp '25]</li>
+</ul>
 
 <h3>
 Summer Experiences
