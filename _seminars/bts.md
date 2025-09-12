@@ -3,7 +3,7 @@ layout: page
 title: Back to School Seminar 
 description: grad students share math they've been up to this summer
 img: assets/img/bts-sem-icon.png
-importance: 3
+importance: 1
 notes: 
 # category: work
 # related_publications: einstein1956investigations, einstein1950meaning
@@ -11,7 +11,7 @@ notes:
 
 **Organizer:** Bryan Lu (blu17@uw.edu)
 
-**Meetings:** TBD
+**Meetings:** Fridays 2:30 PM - 3:30 PM @ PDL C-038
 
 Over the summer, the graduate students at UW have learned many new and interesting topics from conferences, summer schools, reading courses, or just on their own. This seminar is intended to be a place where we can share what we have recently learned to our fellow graduate students. Not only does this serve as a way to reengage with our existing graduate student community after the summer, but it also welcomes the incoming cohort of students and introduces topics that we are interested in.
 
@@ -23,42 +23,42 @@ We're currently looking for speakers! If you're interested in participating, ple
 
 ### Schedule
 
-##### Week 1 -- 
+##### Week 2 -- October 3, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 2 -- 
+##### Week 3 -- October 10, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 3 -- 
+##### Week 4 -- October 17, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 4 -- 
+##### Week 5 -- October 24, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 5 -- 
+##### Week 6 -- October 31, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 6 -- 
+##### Week 7 -- November 7, 2025
 **Speaker:** TBD
 
 **Title:** TBD
@@ -66,21 +66,21 @@ We're currently looking for speakers! If you're interested in participating, ple
 **Abstract:** TBD 
 
 
-##### Week 7 -- 
+##### Week 8 -- November 14, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 8 -- 
+##### Week 9 -- November 21, 2025
 **Speaker:** TBD
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
-##### Week 9 -- 
+##### Week 11 -- December 5, 2025
 **Speaker:** TBD
 
 **Title:** TBD
