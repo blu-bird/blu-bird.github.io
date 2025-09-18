@@ -196,6 +196,8 @@ Hearing of Kelly's passing has reminded me of the things I've learned from him, 
 
 Kelly, thanks for being an inspiration, a role model, and an exceptional mathematician. We miss you lots. 
 
+---
+endnotes 
 
 [^1]: yes, the same Spivak of calculus textbook fame! References to a "Steve Neen" and yellow pigs of various kinds (a cowardly cop, perhaps) can be found in his books, which is no coincidence...
 

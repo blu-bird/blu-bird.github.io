@@ -24,28 +24,28 @@ We're currently looking for speakers! If you're interested in participating, ple
 ### Schedule
 
 ##### Week 2 -- October 3, 2025
-**Speaker:** TBD
+**Speaker:** Nelson Niu
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 3 -- October 10, 2025
-**Speaker:** TBD
+**Speaker:** Grace O'Brien
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 4 -- October 17, 2025
-**Speaker:** TBD
+**Speaker:** Clare Minnerath
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 5 -- October 24, 2025
-**Speaker:** TBD
+**Speaker:** Ethan Macbrough
 
 **Title:** TBD
 
