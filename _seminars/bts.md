@@ -45,7 +45,7 @@ We're currently looking for speakers! If you're interested in participating, ple
 **Abstract:** TBD 
 
 ##### Week 5 -- October 24, 2025
-**Speaker:** Ethan Macbrough
+**Speaker:** Ethan MacBrough
 
 **Title:** TBD
 
