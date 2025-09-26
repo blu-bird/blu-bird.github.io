@@ -17,8 +17,6 @@ Over the summer, the graduate students at UW have learned many new and interesti
 
 This seminar is aimed at all of our graduate students, so talks should be accessible to a general audience. Ideally, at least $$\frac 1e$$ of your talk should be accessible to incoming first-year students. Talks should be approximately 51 minutes long, with time for questions afterwards.
 
-We're currently looking for speakers! If you're interested in participating, please fill out <a href="https://forms.gle/eXhJfcyMA9sQ8mj86">this form</a>. 
-
 ---
 
 ### Schedule
@@ -52,14 +50,14 @@ We're currently looking for speakers! If you're interested in participating, ple
 **Abstract:** TBD 
 
 ##### Week 6 -- October 31, 2025
-**Speaker:** TBD
+**Speaker:** Connor McCausland
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 7 -- November 7, 2025
-**Speaker:** TBD
+**Speaker:** Dan Guyer
 
 **Title:** TBD
 
@@ -67,21 +65,21 @@ We're currently looking for speakers! If you're interested in participating, ple
 
 
 ##### Week 8 -- November 14, 2025
-**Speaker:** TBD
+**Speaker:** Varun Shah
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 9 -- November 21, 2025
-**Speaker:** TBD
+**Speaker:** Ting Gong
 
 **Title:** TBD
 
 **Abstract:** TBD 
 
 ##### Week 11 -- December 5, 2025
-**Speaker:** TBD
+**Speaker:** Bryan Lu
 
 **Title:** TBD
 
