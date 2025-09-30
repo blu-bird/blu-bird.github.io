@@ -24,9 +24,9 @@ This seminar is aimed at all of our graduate students, so talks should be access
 ##### Week 2 -- October 3, 2025
 **Speaker:** Nelson Niu
 
-**Title:** TBD
+**Title:** A categorical framework for coherence theorems
 
-**Abstract:** TBD 
+**Abstract:** Categories with operations that are associative, commutative, and distributive up to isomorphism abound in mathematics: for instance, in homotopy theory, they are the inputs to infinite loop space machines and K-theory functors. But before we can work with such categories, we must prove coherence theorems for them to ensure these structures are well-behaved. In ongoing joint work with Jonathan Rubin, we establish a general categorical approach to proving such coherence theorems versatile enough to incorporate (weak) distributivity laws, module and algebra categories, and the higher arity twisted products that appear in equivariant settings. Building on Mac Lane’s original coherence proof for symmetric monoidal categories, we employ tools from logic and rewriting theory to study the relevant universal parameter categories, clarifying the necessary axioms.
 
 ##### Week 3 -- October 10, 2025
 **Speaker:** Grace O'Brien
