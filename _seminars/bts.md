@@ -31,9 +31,11 @@ This seminar is aimed at all of our graduate students, so talks should be access
 ##### Week 3 -- October 10, 2025
 **Speaker:** Grace O'Brien
 
-**Title:** TBD
+**Title:** Spline time: Using geometry to understand deep neural networks
 
-**Abstract:** TBD 
+**Abstract:** Have you heard the words "neural networks" but not totally understood what they are? Are you interested in hearing about my experience interning at PNNL? Do you like pretty pictures? Come to my talk and get an introduction to machine learning and the math behind it. I'll also discuss my specific project this summer, described below.
+
+AI systems are increasingly becoming a part of our everyday lives, including in safety-critical systems. However, the innerworkings of deep neural networks are still largely a black box. Even in the case of classification tasks, common methods used to assess model performance do not give insight into whether the model will generalize or into other performance nuances. In this project, we use mathematical techniques to better understand how these processes work and explore how to identify problems such as overfitting, memorization, and poor generalization.  In the process of training a model, piecewise-linear activation functions partition the input space into two, creating a tiling that shifts over time. Following the work of Balestriero, Baraniuk, and others, we use geometric tools to study this tiling to gain insight into the model’s training progress and, potentially provide greater assurances that a model is ready for deployment.
 
 ##### Week 4 -- October 17, 2025
 **Speaker:** Clare Minnerath
