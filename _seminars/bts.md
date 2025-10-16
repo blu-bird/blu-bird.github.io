@@ -40,9 +40,9 @@ AI systems are increasingly becoming a part of our everyday lives, including in 
 ##### Week 4 -- October 17, 2025
 **Speaker:** Clare Minnerath
 
-**Title:** TBD
+**Title:** (The search for) Web bases for $$SL_r(\CC)$$-invariants
 
-**Abstract:** TBD 
+**Abstract:** The study of $$SL_r(\CC)$$ tensor invariants has been extended by the addition of tensor diagrams. The search for a basis among webs, the planar version of tensor diagrams, has yielded compelling results for $$r=2$$ and $$3$$, but has proven elusive for larger $$r$$. In an example forward fashion, we will see how you can go from a tensor diagram to an element of the invariant ring, explore the known web bases for $$SL_2$$ and $$SL_3$$ invariants, and discuss what properties we hope for in a web basis when $$r\ge 4$$.
 
 ##### Week 5 -- October 24, 2025
 **Speaker:** Ethan MacBrough
