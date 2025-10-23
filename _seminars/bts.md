@@ -49,9 +49,9 @@ Based on lectures given by Christian Gaetz at SLMath: Graphical Models in Algebr
 ##### Week 5 -- October 24, 2025
 **Speaker:** Ethan MacBrough
 
-**Title:** TBD
+**Title:** Working with singularities explicitly
 
-**Abstract:** TBD 
+**Abstract:** Algebraic geometers have developed several notions of "nice singularity" which are useful in applications; typically these nice singularities are chosen to balance flexibility (interesting geometric constructions you might want to perform will often lead to singularities) and tame behavior (any interesting geometric conclusions you might want to draw will be screwed up by sufficiently bad singularities). A third desirable feature is ease of determining whether or not a given singularity is nice; unfortunately, this third property often gets kicked to the road in favor of optimizing the above dichotomy. Aside from the psychological distress this may cause, this becomes seriously problematic when you're trying to "run experiments" (i.e. construct interesting examples) to analyze the subtle behavior of these singularities. Thankfully, there are several tricks which are generally effective for analyzing the singularity type when you have explicit equations. In this talk I will go through a few examples showing some of these techniques in action. Most of the talk will have no real prerequisites as long as you're willing to black box some details, but in the later part I assume familiarity with basic homological algebra.
 
 ##### Week 6 -- October 31, 2025
 **Speaker:** Connor McCausland
