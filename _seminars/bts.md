@@ -56,16 +56,18 @@ Based on lectures given by Christian Gaetz at SLMath: Graphical Models in Algebr
 ##### Week 6 -- October 31, 2025
 **Speaker:** Connor McCausland
 
-**Title:** TBD
+**Title:** Pipe dreams and Rubey's lattice
 
-**Abstract:** TBD 
+**Abstract:** Reduced pipe dreams are combinatorial objects that encode some of the algebraic, enumerative, geometric, and probabilistic properties of Schubert and Grothendieck polynomials. In this talk, we will introduce the basic properties of pipe dreams and the Rubey poset on reduced pipe dreams. We will then discuss the two recent papers by Axelrod-Freed, Defant, Mularczyk, Nguyen, Tung and Billey, Minnerath, McCausland which independently proved that the Rubey poset is a lattice.
+
 
 ##### Week 7 -- November 7, 2025
 **Speaker:** Dan Guyer
 
-**Title:** TBD
+**Title:** A Tour of $$h$$--numbers
 
-**Abstract:** TBD 
+
+**Abstract:** The theory of $$h$$--numbers is an _incredibly_ rich one. In this talk, we will begin by highlighting various viewpoints that one can use to understand the $$h$$--numbers of simplicial complexes. From each new perspective, we will gain new insights, and through this journey, we will traverse the lands of commutative algebra, topology, convex geometry, and combinatorics. After seeing how each of these tools applies to simplicial complexes, we will mention how these classical techniques can be extended to the flag $$h$$--numbers of Eulerian posets. In doing so, we will illustrate a recursive decomposition that one can use to compute the $$cd$$--index of a polytope (among many other spaces). This decomposition is the main result of joint work with Felipe Caster and José Samper. 
 
 
 ##### Week 8 -- November 14, 2025
