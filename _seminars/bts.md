@@ -73,9 +73,10 @@ Based on lectures given by Christian Gaetz at SLMath: Graphical Models in Algebr
 ##### Week 8 -- November 14, 2025
 **Speaker:** Varun Shah
 
-**Title:** TBD
+**Title:** Transversals in Combinatorics & Geometry
 
-**Abstract:** TBD 
+**Abstract:** Problems in extremal combinatorics ask how large or small a structure can be before a certain property becomes unavoidable. One such question concerns transversals -- collections of points that intersect every member of a given family of sets. In this talk, we will look at transversals of families arising in various geometric, combinatorial and topological contexts to understand when such families admit small transversals and when large ones are unavoidable. Along the way, we will encounter probabilistic, combinatorial, and topological methods that together illustrate the range of ideas underlying modern combinatorics. 
+
 
 ##### Week 9 -- November 21, 2025
 **Speaker:** Ting Gong
