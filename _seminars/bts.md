@@ -83,7 +83,7 @@ Based on lectures given by Christian Gaetz at SLMath: Graphical Models in Algebr
 
 **Title:** Equivalences of equivalences
 
-**Abstract:**  There are many types of equivalences in algebraic geometry. In this talk, aftering recalling what derived category and Grothendieck ring of varieties are, we introduce four types of equivalences: D-equivalence, L-equivalence, K-equivalence and isomorphism between varieties. We then state conjectures and evidences on the relationship between the four of them, and debrief the current status quo. In this talk, many examples and counterexamples will be provided.
+**Abstract:**  There are many types of equivalences in algebraic geometry. In this talk, after recalling what derived category and Grothendieck ring of varieties are, we introduce four types of equivalences: D-equivalence, L-equivalence, K-equivalence and isomorphism between varieties. We then state conjectures and evidences on the relationship between the four of them, and debrief the current status quo. In this talk, many examples and counterexamples will be provided.
 
 
 ##### Week 11 -- December 5, 2025
