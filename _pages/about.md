@@ -24,9 +24,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! I'm a second-year PhD student in mathematics at the University of Washington. My mathematical interests are mainly in algebraic combinatorics (with assorted interests in algebraic geometry and representation theory). Broadly, I enjoy learning about combinatorics in connection with algebra and geometry and finding ways in which all three overlap. I am also generally enthusiastic about (mathematical) pedagogy and thinking about how to share math with people. 
 
-I graduated from Cornell University in December 2023 with a bachelor's in mathematics and computer science. Some wayward academic interests from my time as an undergraduate include <a href="https://github.com/etalang/jaek">programming languages</a>, <a href="https://github.com/blu-bird/agda-unimath">formal verification</a>, physics, and linguistics. I don't think about these things as much anymore, but I love to hear about them!
+I graduated from Cornell University in December 2023 with a bachelor's in mathematics and computer science. I enjoy language in many forms -- some wayward academic interests include <a href="https://github.com/etalang/jaek">programming languages</a>, <a href="https://github.com/blu-bird/agda-unimath">formal verification</a>, and linguistics. I don't think about these things as much anymore, but I love to hear about them!
 
-Outside of academics, in my free time I like playing games (on boards or otherwise) and doing puzzles (so much that sometimes I spend a <a href="https://puzzles.mit.edu/">whole weekend</a> on them). I also enjoy dancing and playing ultimate frisbee. 
+Outside of academics, in my free time I like playing games (on boards or otherwise) and doing puzzles (so much that sometimes I spend a <a href="https://puzzles.mit.edu/">whole weekend</a> on them). 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
