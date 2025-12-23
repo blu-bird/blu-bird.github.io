@@ -2,7 +2,7 @@
 layout: post
 title:  discrete volume polynomials
 date:   2025-09-19
-description: in which I am unamused and relearn how generating functions solve everything
+description: in which I am unamused to relearn how generating functions solve everything
 tags: polytope gen-func toric-geo alg-geo
 categories: algebra combinatorics
 related_posts: false
@@ -124,7 +124,7 @@ there's actually more to say about the Ehrhart polynomial! the other big thing t
 
 > Theorem (Ehrhart-Macdonald Reciprocity). If $$P$$ is a convex integral $$d$$-polytope, then $$L_P(-t) = (-1)^d L_{P^\circ}(t)$$. 
 
-We should be a little careful, since $$P$$ is closed by assumption but $$P^\circ$$ is open -- here, $$L_{P^\circ}(t) = |tP^\circ \cap \ZZ^d|$$ for positive integers $$t$$. 
+We should be a little careful, since $$P$$ is closed by assumption but $$P^\circ$$ is open -- here, $$L_{P^\circ}(t) = \abs{tP^\circ \cap \ZZ^d}$$ for positive integers $$t$$. 
 
 When I first read about this, this felt a bit like there might be some sort of secret inclusion-exclusion thing at work here, which is sometimes the case when you see signs in your counting formulas. Actually, this is still mostly just a straight generating functions argument, but a little more tech and subtlety is needed. 
 

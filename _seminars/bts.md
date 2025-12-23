@@ -89,6 +89,6 @@ Based on lectures given by Christian Gaetz at SLMath: Graphical Models in Algebr
 ##### Week 11 -- December 5, 2025
 **Speaker:** Bryan Lu
 
-**Title:** TBD
+**Title:** Surprise! This is actually the combinatorial Hopf algebras reading group
 
-**Abstract:** TBD 
+**Abstract:** Recall (or learn quickly) that the ring of symmetric functions Sym over the integers can be thought of as the characters of symmetric group representations, and that this ring admits the structure of a (combinatorial) Hopf algebra. In the category of combinatorial Hopf algebras, recall (or learn quickly) that Sym is pretty closely related to the rings of quasisymmetric functions and non-commutative symmetric functions (being a subalgebra of one and the image of the other). One might ask whether there is some representation-theoretic interpretation of these closely-related combinatorial Hopf algebras, and it turns out the answer is yes! We'll discuss how these rings are secretly Grothendieck groups of finite-dimensional 0-Hecke algebra modules and build combinatorial models of their representations using Young tableaux, in analogy to symmetric group representation theory.
