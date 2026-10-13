@@ -9,7 +9,7 @@ profile:
   image: profile-pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>he/him</p>
+    <p>they/he/any</p>
     email: blu17@uw.edu
     office: C-8G Padelford 
   # <p>555 your office number</p>
@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm a second-year PhD student in mathematics at the University of Washington. My mathematical interests are mainly in algebraic combinatorics (with assorted interests in algebraic geometry and representation theory). Broadly, I enjoy learning about combinatorics in connection with algebra and geometry and finding ways in which all three overlap. I am also generally enthusiastic about (mathematical) pedagogy and thinking about how to share math with people. 
+Hello! I'm a third-year PhD student in mathematics at the University of Washington. My mathematical interests are mainly in algebraic combinatorics (with assorted interests in algebraic geometry and representation theory). Broadly, I enjoy learning about combinatorics in connection with algebra and geometry and finding ways in which all three overlap. I am also generally enthusiastic about (mathematical) pedagogy and thinking about how to share math with people. 
 
 I graduated from Cornell University in December 2023 with a bachelor's in mathematics and computer science. I enjoy language in many forms -- some wayward academic interests include <a href="https://github.com/etalang/jaek">programming languages</a>, <a href="https://github.com/blu-bird/agda-unimath">formal verification</a>, and linguistics. I don't think about these things as much anymore, but I love to hear about them!
 
