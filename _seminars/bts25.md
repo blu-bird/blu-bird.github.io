@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Back to School Seminar 
+title: Back to School Seminar (AU '25)
 description: grad students share math they've been up to this summer
 img: assets/img/bts-sem-icon.png
-importance: 1
+importance: 2
 notes: 
 # category: work
 # related_publications: einstein1956investigations, einstein1950meaning

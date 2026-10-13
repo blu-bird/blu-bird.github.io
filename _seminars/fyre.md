@@ -3,7 +3,7 @@ layout: page
 title: FYRe (First Year Reading Seminar)
 description: newly-freed grad students share the shenanigans they've been up to (SU 25)
 img: assets/img/summer-sem-icon.png
-importance: 2
+importance: 3
 notes: 
 # category: work
 # related_publications: einstein1956investigations, einstein1950meaning
