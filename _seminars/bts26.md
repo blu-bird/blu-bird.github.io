@@ -37,11 +37,11 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 **Abstract:** Eigenvalues and eigenvectors of matrices associated with graphs relate to features such as connectivity (how easily the graph can be separated), clustering (how nodes form closely connected groups), and network dynamics (how information spreads). How can we integrate the graph's vertex and edge information into the matrices to enable meaningful analysis? We compare three matrix representations: the standard, weighted, and inner product Laplacians. The standard Laplacian describes networks and connectivity alone, the weighted Laplacian adds connection importance, and the inner product Laplacian offers a simple and transparent way to add node and edge similarity while preserving standard spectral tools. Embeddings and clustering show how node and edge features change network geometry, clusters, and relationships.
 
 ##### Week 4 -- October 23, 2026
-**Speaker:** TBA
+**Speaker:** Wolfgang Allred
 
-**Title:** TBA
+**Title:** Diagram Algebras, and the Representation theory of SL2
 
-**Abstract:** TBA
+**Abstract:** The representation theory of SL2 over the complex numbers is well understood, but what happens in positive characteristic? As one might suspect, it becomes much more difficult. Luckily, there are diagram algebras that can help us in our quest. Along the way, we’ll see what a generalization of Schur-Weyl duality might look like in positive characteristic.
 
 ##### Week 5 -- October 30, 2026
 **Speaker:** Varun Shah
@@ -51,7 +51,7 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 **Abstract:** TBA
 
 ##### Week 6 -- November 6, 2026
-**Speaker:** TBA
+**Speaker:** Haocheng Cai
 
 **Title:** TBA
 
@@ -59,7 +59,7 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 
 
 ##### Week 7 -- November 13, 2026
-**Speaker:** TBA
+**Speaker:** Mallory Dolorfino
 
 **Title:** TBA
 
