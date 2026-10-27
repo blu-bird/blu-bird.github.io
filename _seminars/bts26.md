@@ -46,9 +46,9 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 ##### Week 5 -- October 30, 2026
 **Speaker:** Varun Shah
 
-**Title:** TBA
+**Title:** Percolation, Subsequences and Combinatorics
 
-**Abstract:** TBA
+**Abstract:** I am not a probabilist, but I attended an intensive summer school on probability this summer anyway. I’m not quite sure how much I learned, but at least I have something interesting to talk about at the back-to-school seminar! I’ll introduce several famous models and topics in probability, including first-passage percolation, the symmetric exclusion process, and longest increasing subsequences, along with their connections to the Robinson–Schensted–Knuth correspondence and Young tableaux.
 
 ##### Week 6 -- November 6, 2026
 **Speaker:** Haocheng Cai
