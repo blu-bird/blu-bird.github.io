@@ -59,7 +59,7 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 
 We will define and construct BIG!! Cohen–Macaulay modules after motivating them with a monomial membership problem in a general Noetherian local ring. While the famous/infamous Cohen–Macaulay modules require a decent amount of technicality and manipulation of elements to work well with, the existence of BIG!! Cohen–Macaulay modules is all we care about (at least in this talk). We will then talk more about it though I haven't decided what to include.
 
-Some familiarity with what a regular sequence is would be helpful but far from necessary. The talk would be accessible to anyone who has taken the core algebra series. I will also add some geometric remarks for the interest of AG people, but… everything happens locally.
+Some familiarity with what a regular sequence is would be helpful but far from necessary. The talk would be accessible to anyone who has taken the core algebra series. I will also add some geometric remarks for the interest of AG people, but... everything happens locally.
 
 
 ##### Week 7 -- November 13, 2026
