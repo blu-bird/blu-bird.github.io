@@ -57,7 +57,7 @@ Talks are approximately 51 minutes long and are accessible to a general graduate
 
 **Abstract:** After I finished my last analysis course ever, the concept of “infinity” silently faded away from my life, until I saw a class of highly non-finitely generated modules advertised by Thomas Polstra as “one of the more rewarding and interesting topics in commutative algebra.”
 
-We will define and construct BIG!! Cohen–Macaulay modules after motivating them with a monomial membership problem in a general Noetherian local ring. While the famous/infamous Cohen–Macaulay modules require a decent amount of technicality and manipulation of elements to work well with, the existence of BIG!! Cohen–Macaulay modules is all we care about (at least in this talk). We will then talk more about it though I haven't decided what to include.
+We will define and construct BIG!! Cohen–Macaulay modules after motivating them with a monomial membership problem in a general Noetherian local ring. While the famous/infamous Cohen–Macaulay modules require a decent amount of technicality and manipulation of elements to work well with, the existence of BIG!! Cohen–Macaulay modules is all we care about (at least in this talk). We will then prove the direct summand conjecture.
 
 Some familiarity with what a regular sequence is would be helpful but far from necessary. The talk would be accessible to anyone who has taken the core algebra series. I will also add some geometric remarks for the interest of AG people, but... everything happens locally.
 
