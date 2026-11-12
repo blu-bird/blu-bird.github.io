@@ -67,7 +67,7 @@ Some familiarity with what a regular sequence is would be helpful but far from n
 
 **Title:** Quantifying rational points on varieties
 
-**Abstract:** A classical problem in number theory asks whether or not a Diophantine equation has solutions in a given number field, and if so, how many. A natural generalization asks if a variety has a rational point, and if so, how many. The question of "how many" can be studied in several different ways, and it is useful to be able to distinguish two varieties that both, naively, have "many" (e.g., dense or infinitely many) rational points. In this talk, we give finer notions of what it means for a variety to have many rational points, and we discuss the geometric properties that (conjecturally) control these properties. Then, we explore how these notions relate to the study of closed points on curves. 
+**Abstract:** A classical problem in number theory asks whether or not a Diophantine equation has solutions in a given number field, and if so, how many. A natural generalization asks if a variety has a rational point, and if so, how many. The question of "how many" can be studied in several different ways, and it is useful to be able to distinguish two varieties that both, naively, have "many" (e.g., dense or infinitely many) rational points. In this talk, we give finer notions of what it means for a variety to have many rational points, and we discuss the geometric properties that (conjecturally) control these properties. Then, we explore how these notions relate to the study of closed points on curves.   
 
 
 
